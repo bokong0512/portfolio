@@ -7,20 +7,18 @@ on:
 
 jobs:
   deploy:
+    concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install deps
-        run: npm ci
-
-      - name: GH Auth
-        run: echo "//npm.pkg.github.com/:_authToken=${{secrets.GITHUB_TOKEN}}" >> ~/.npmrc
-
-      - name: Build
-        run: npm run build
-
+      - name: Setup pages
+        uses: actions/configure-pages@v5
+      - name: Install dependencies
+        run: |
+          npm ci
+          npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
