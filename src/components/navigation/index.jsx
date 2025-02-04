@@ -1,17 +1,15 @@
 import React from 'react';
 import { NavItem } from "./NavItem.jsx";
-import {Button} from "uds-core";
 
 export const Navigation = () => {
     return (
-        <nav className="flex justify-between items-center w-full">
-            <h5 className='text-3xl font-bold'>Bo Kong</h5>
+        <nav className="sticky z-50 top-6 flex justify-between items-center max-w-2xl bg-white/75 backdrop-blur-md py-4 px-5 rounded-lg shadow">
+            <h5 className='text-3xl font-bold text-neutral-900'>Bo Kong</h5>
             <ol className='flex gap-10'>
-                <NavItem>item #1</NavItem>
-                <NavItem>item #2</NavItem>
-                <NavItem>item #3</NavItem>
+                <NavItem>Works</NavItem>
+                <NavItem>Contact</NavItem>
+                <NavItem>About</NavItem>
             </ol>
-            <Button>Contact now</Button>
         </nav>
     )
 }

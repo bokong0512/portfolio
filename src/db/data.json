@@ -1,0 +1,517 @@
+[
+  {
+    "object": "page",
+    "id": "190c3488-110d-80d8-83e2-c0e7cad69643",
+    "created_time": "2025-02-04T23:25:00.000Z",
+    "last_edited_time": "2025-02-04T23:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "ae83bda1-5124-45a6-bcd1-2e58451535cd"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "ae83bda1-5124-45a6-bcd1-2e58451535cd"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "18fc3488-110d-80ea-a060-dda81ef6e0d4"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "created date": {
+        "id": "%3AT%3AD",
+        "type": "date",
+        "date": null
+      },
+      "tag": {
+        "id": "G%5C%7C_",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Cover": {
+        "id": "ZZ_%7D",
+        "type": "files",
+        "files": [
+          {
+            "name": "Screenshot 2024-10-11 at 21.41.58 copy.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/1fdcc4ed-8e7c-4a0b-8360-e7f0995df676/8e6fa19f-ea0d-4453-838f-a0157de5a78e/Screenshot_2024-10-11_at_21.41.58_copy.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665LWY6KE2%2F20250204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250204T232741Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEB4aCXVzLXdlc3QtMiJHMEUCIGRXUzHDJZI82nswcZR082RDenVfzGJ%2Fu1TPjl6%2BIZB9AiEA8gbF6N%2FPkm1ZR96EiZsIbPDG8TohHa6GHnyJvqMFTPIq%2FwMINxAAGgw2Mzc0MjMxODM4MDUiDBoslXVSIoXRZlubAyrcA9eAtHGzW0vjp4P8EW%2F6Vp1qgIPjGJYpXArQBxPzrJPlQUti63UTbxCrhTFig4t4tOot7nhrV15lQvapIIfbvmLDOZN9oTUtG3m1dVQ6nbj8ZSpmH7GILH%2B2lvGvjjjJ%2B%2BV4zz2qcwuO7CuCaTdXJpx37IHjF1U0dNgR9UKhrUkmpHD5kYVPMulbQch%2F%2BjpeTfLCX6KC91eMOxSPBHABLhdDsZQ54EgVotk4QAYGFJ8SLnDnef7w9JI7xU2qFUdAD0ATJbOvVdtymLVDywMS7gxQ2Fi%2B8XjMAfF6btk0E5V1WoGzYNZt%2BXYHYSmEKapy3PBO6fpZGfWyzKi7EVQR4rA%2FlotBrlfV4VtWTgVjjmjykDNmZAXzhD0jiU13P%2BRlWejozEuWCNg8nvBUSti5rIXflqpynLa%2BXbP35Fb%2BefBWgobE2nbjSnxNAWBc1196y%2BAGAlptwyVAHn%2BiHVAwmSIKDXG4b6Jm9GnD7JkRRnaG2qBFOT8JFaXPe0BErebBAE6Wd4rvi%2BdY7pKWH%2BBKxKcE%2F5c07S5f8akqa6b%2B%2BaInF2W202CebdJvSgC%2FiMxVGk7HwiIBZGIc%2Fmkbww1m5QVt7nJ7LZlgZSt9pRgcBPMre%2FD7AqdEuD77QS6DMO2Tir0GOqUBR7TrtfjhdlkEPLa%2FDZpZEfvlaXdHtI%2FvdgThjszN%2FiYJs95U9nh71oI34BARXMkr%2FqT8Ovn685sATewNvTrfDDyqaSucnS8iBBHw9Ndpuch%2BJE23kh1EhFQ0ZEV2c1Bkg%2BpNU3KwfNjtqgjWohlUEso6uOzkT9Bop6qa7xqlucm0CQYWWk4e7kSlEud6LKWW5bh4qwvjTbRl9FGAlgHvhMfhJCfS&X-Amz-Signature=a392f1c5468d2f8f4729c53b512007292e8e9691c159b82dae4dc300cd84f380&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2025-02-05T00:27:41.353Z"
+            }
+          }
+        ]
+      },
+      "description": {
+        "id": "b%5BGH",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Status": {
+        "id": "iZHt",
+        "type": "status",
+        "status": {
+          "id": "a68e248d-49e6-426d-8e63-2821080be197",
+          "name": "Not started",
+          "color": "default"
+        }
+      },
+      "Project": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "LeiCha",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "LeiCha",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/LeiCha-190c3488110d80d883e2c0e7cad69643",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "190c3488-110d-80d4-a367-fe4117e53b98",
+    "created_time": "2025-02-04T19:20:00.000Z",
+    "last_edited_time": "2025-02-04T23:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "ae83bda1-5124-45a6-bcd1-2e58451535cd"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "ae83bda1-5124-45a6-bcd1-2e58451535cd"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "18fc3488-110d-80ea-a060-dda81ef6e0d4"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "created date": {
+        "id": "%3AT%3AD",
+        "type": "date",
+        "date": null
+      },
+      "tag": {
+        "id": "G%5C%7C_",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Cover": {
+        "id": "ZZ_%7D",
+        "type": "files",
+        "files": [
+          {
+            "name": "original-8270ace92a72ed064469ab40b1f0586c.jpg",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/1fdcc4ed-8e7c-4a0b-8360-e7f0995df676/f8540e05-60ae-4d6d-a67d-34c537af210d/original-8270ace92a72ed064469ab40b1f0586c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665LWY6KE2%2F20250204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250204T232741Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEB4aCXVzLXdlc3QtMiJHMEUCIGRXUzHDJZI82nswcZR082RDenVfzGJ%2Fu1TPjl6%2BIZB9AiEA8gbF6N%2FPkm1ZR96EiZsIbPDG8TohHa6GHnyJvqMFTPIq%2FwMINxAAGgw2Mzc0MjMxODM4MDUiDBoslXVSIoXRZlubAyrcA9eAtHGzW0vjp4P8EW%2F6Vp1qgIPjGJYpXArQBxPzrJPlQUti63UTbxCrhTFig4t4tOot7nhrV15lQvapIIfbvmLDOZN9oTUtG3m1dVQ6nbj8ZSpmH7GILH%2B2lvGvjjjJ%2B%2BV4zz2qcwuO7CuCaTdXJpx37IHjF1U0dNgR9UKhrUkmpHD5kYVPMulbQch%2F%2BjpeTfLCX6KC91eMOxSPBHABLhdDsZQ54EgVotk4QAYGFJ8SLnDnef7w9JI7xU2qFUdAD0ATJbOvVdtymLVDywMS7gxQ2Fi%2B8XjMAfF6btk0E5V1WoGzYNZt%2BXYHYSmEKapy3PBO6fpZGfWyzKi7EVQR4rA%2FlotBrlfV4VtWTgVjjmjykDNmZAXzhD0jiU13P%2BRlWejozEuWCNg8nvBUSti5rIXflqpynLa%2BXbP35Fb%2BefBWgobE2nbjSnxNAWBc1196y%2BAGAlptwyVAHn%2BiHVAwmSIKDXG4b6Jm9GnD7JkRRnaG2qBFOT8JFaXPe0BErebBAE6Wd4rvi%2BdY7pKWH%2BBKxKcE%2F5c07S5f8akqa6b%2B%2BaInF2W202CebdJvSgC%2FiMxVGk7HwiIBZGIc%2Fmkbww1m5QVt7nJ7LZlgZSt9pRgcBPMre%2FD7AqdEuD77QS6DMO2Tir0GOqUBR7TrtfjhdlkEPLa%2FDZpZEfvlaXdHtI%2FvdgThjszN%2FiYJs95U9nh71oI34BARXMkr%2FqT8Ovn685sATewNvTrfDDyqaSucnS8iBBHw9Ndpuch%2BJE23kh1EhFQ0ZEV2c1Bkg%2BpNU3KwfNjtqgjWohlUEso6uOzkT9Bop6qa7xqlucm0CQYWWk4e7kSlEud6LKWW5bh4qwvjTbRl9FGAlgHvhMfhJCfS&X-Amz-Signature=8a3bb7e31d0f5c2a2bf704bc03008c6135c2de09519a2cbcd8045c0395dad9b2&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2025-02-05T00:27:41.354Z"
+            }
+          }
+        ]
+      },
+      "description": {
+        "id": "b%5BGH",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Status": {
+        "id": "iZHt",
+        "type": "status",
+        "status": {
+          "id": "a68e248d-49e6-426d-8e63-2821080be197",
+          "name": "Not started",
+          "color": "default"
+        }
+      },
+      "Project": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Free D",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Free D",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Free-D-190c3488110d80d4a367fe4117e53b98",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "40b3ca60-e49e-4640-bd74-66255c11cfba",
+    "created_time": "2025-02-03T22:06:00.000Z",
+    "last_edited_time": "2025-02-04T23:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "18fd872b-594c-819e-8b73-000210b09e56"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "ae83bda1-5124-45a6-bcd1-2e58451535cd"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "18fc3488-110d-80ea-a060-dda81ef6e0d4"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "created date": {
+        "id": "%3AT%3AD",
+        "type": "date",
+        "date": null
+      },
+      "tag": {
+        "id": "G%5C%7C_",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Cover": {
+        "id": "ZZ_%7D",
+        "type": "files",
+        "files": [
+          {
+            "name": "visualvibes_3583.png",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/1fdcc4ed-8e7c-4a0b-8360-e7f0995df676/fa8b5b7b-1fb1-4d5a-9829-105381662520/visualvibes_3583.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665LWY6KE2%2F20250204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250204T232741Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEB4aCXVzLXdlc3QtMiJHMEUCIGRXUzHDJZI82nswcZR082RDenVfzGJ%2Fu1TPjl6%2BIZB9AiEA8gbF6N%2FPkm1ZR96EiZsIbPDG8TohHa6GHnyJvqMFTPIq%2FwMINxAAGgw2Mzc0MjMxODM4MDUiDBoslXVSIoXRZlubAyrcA9eAtHGzW0vjp4P8EW%2F6Vp1qgIPjGJYpXArQBxPzrJPlQUti63UTbxCrhTFig4t4tOot7nhrV15lQvapIIfbvmLDOZN9oTUtG3m1dVQ6nbj8ZSpmH7GILH%2B2lvGvjjjJ%2B%2BV4zz2qcwuO7CuCaTdXJpx37IHjF1U0dNgR9UKhrUkmpHD5kYVPMulbQch%2F%2BjpeTfLCX6KC91eMOxSPBHABLhdDsZQ54EgVotk4QAYGFJ8SLnDnef7w9JI7xU2qFUdAD0ATJbOvVdtymLVDywMS7gxQ2Fi%2B8XjMAfF6btk0E5V1WoGzYNZt%2BXYHYSmEKapy3PBO6fpZGfWyzKi7EVQR4rA%2FlotBrlfV4VtWTgVjjmjykDNmZAXzhD0jiU13P%2BRlWejozEuWCNg8nvBUSti5rIXflqpynLa%2BXbP35Fb%2BefBWgobE2nbjSnxNAWBc1196y%2BAGAlptwyVAHn%2BiHVAwmSIKDXG4b6Jm9GnD7JkRRnaG2qBFOT8JFaXPe0BErebBAE6Wd4rvi%2BdY7pKWH%2BBKxKcE%2F5c07S5f8akqa6b%2B%2BaInF2W202CebdJvSgC%2FiMxVGk7HwiIBZGIc%2Fmkbww1m5QVt7nJ7LZlgZSt9pRgcBPMre%2FD7AqdEuD77QS6DMO2Tir0GOqUBR7TrtfjhdlkEPLa%2FDZpZEfvlaXdHtI%2FvdgThjszN%2FiYJs95U9nh71oI34BARXMkr%2FqT8Ovn685sATewNvTrfDDyqaSucnS8iBBHw9Ndpuch%2BJE23kh1EhFQ0ZEV2c1Bkg%2BpNU3KwfNjtqgjWohlUEso6uOzkT9Bop6qa7xqlucm0CQYWWk4e7kSlEud6LKWW5bh4qwvjTbRl9FGAlgHvhMfhJCfS&X-Amz-Signature=411d0cc1e51ed30f10aa9d53798e71bd40a7899e7b0e9d11e9dedfb899462732&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2025-02-05T00:27:41.354Z"
+            }
+          }
+        ]
+      },
+      "description": {
+        "id": "b%5BGH",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Status": {
+        "id": "iZHt",
+        "type": "status",
+        "status": {
+          "id": "a68e248d-49e6-426d-8e63-2821080be197",
+          "name": "Not started",
+          "color": "default"
+        }
+      },
+      "Project": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Visual Vibes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Visual Vibes",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Visual-Vibes-40b3ca60e49e4640bd7466255c11cfba",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "18fc3488-110d-8003-bddb-f8564119b795",
+    "created_time": "2025-02-03T21:21:00.000Z",
+    "last_edited_time": "2025-02-04T19:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "ae83bda1-5124-45a6-bcd1-2e58451535cd"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "ae83bda1-5124-45a6-bcd1-2e58451535cd"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "18fc3488-110d-80ea-a060-dda81ef6e0d4"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "created date": {
+        "id": "%3AT%3AD",
+        "type": "date",
+        "date": {
+          "start": "2025-02-04",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "tag": {
+        "id": "G%5C%7C_",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Installation Design",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Installation Design",
+            "href": null
+          }
+        ]
+      },
+      "Cover": {
+        "id": "ZZ_%7D",
+        "type": "files",
+        "files": [
+          {
+            "name": "main.jpg",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/1fdcc4ed-8e7c-4a0b-8360-e7f0995df676/f4a1a9e4-762d-47f8-8386-8a383c86b3f1/main.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665LWY6KE2%2F20250204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250204T232741Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEB4aCXVzLXdlc3QtMiJHMEUCIGRXUzHDJZI82nswcZR082RDenVfzGJ%2Fu1TPjl6%2BIZB9AiEA8gbF6N%2FPkm1ZR96EiZsIbPDG8TohHa6GHnyJvqMFTPIq%2FwMINxAAGgw2Mzc0MjMxODM4MDUiDBoslXVSIoXRZlubAyrcA9eAtHGzW0vjp4P8EW%2F6Vp1qgIPjGJYpXArQBxPzrJPlQUti63UTbxCrhTFig4t4tOot7nhrV15lQvapIIfbvmLDOZN9oTUtG3m1dVQ6nbj8ZSpmH7GILH%2B2lvGvjjjJ%2B%2BV4zz2qcwuO7CuCaTdXJpx37IHjF1U0dNgR9UKhrUkmpHD5kYVPMulbQch%2F%2BjpeTfLCX6KC91eMOxSPBHABLhdDsZQ54EgVotk4QAYGFJ8SLnDnef7w9JI7xU2qFUdAD0ATJbOvVdtymLVDywMS7gxQ2Fi%2B8XjMAfF6btk0E5V1WoGzYNZt%2BXYHYSmEKapy3PBO6fpZGfWyzKi7EVQR4rA%2FlotBrlfV4VtWTgVjjmjykDNmZAXzhD0jiU13P%2BRlWejozEuWCNg8nvBUSti5rIXflqpynLa%2BXbP35Fb%2BefBWgobE2nbjSnxNAWBc1196y%2BAGAlptwyVAHn%2BiHVAwmSIKDXG4b6Jm9GnD7JkRRnaG2qBFOT8JFaXPe0BErebBAE6Wd4rvi%2BdY7pKWH%2BBKxKcE%2F5c07S5f8akqa6b%2B%2BaInF2W202CebdJvSgC%2FiMxVGk7HwiIBZGIc%2Fmkbww1m5QVt7nJ7LZlgZSt9pRgcBPMre%2FD7AqdEuD77QS6DMO2Tir0GOqUBR7TrtfjhdlkEPLa%2FDZpZEfvlaXdHtI%2FvdgThjszN%2FiYJs95U9nh71oI34BARXMkr%2FqT8Ovn685sATewNvTrfDDyqaSucnS8iBBHw9Ndpuch%2BJE23kh1EhFQ0ZEV2c1Bkg%2BpNU3KwfNjtqgjWohlUEso6uOzkT9Bop6qa7xqlucm0CQYWWk4e7kSlEud6LKWW5bh4qwvjTbRl9FGAlgHvhMfhJCfS&X-Amz-Signature=afed03acda3f475a95e079ec5d78985339121073cf8282010d8b16cdafabba3e&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2025-02-05T00:27:41.355Z"
+            }
+          }
+        ]
+      },
+      "description": {
+        "id": "b%5BGH",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "establishes a connection between human and nature.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "establishes a connection between human and nature.",
+            "href": null
+          }
+        ]
+      },
+      "Status": {
+        "id": "iZHt",
+        "type": "status",
+        "status": {
+          "id": "a68e248d-49e6-426d-8e63-2821080be197",
+          "name": "Not started",
+          "color": "default"
+        }
+      },
+      "Project": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rain",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rain",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Rain-18fc3488110d8003bddbf8564119b795",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "18fc3488-110d-807a-9a59-e7104e4e29cb",
+    "created_time": "2025-02-03T21:18:00.000Z",
+    "last_edited_time": "2025-02-04T23:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "ae83bda1-5124-45a6-bcd1-2e58451535cd"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "ae83bda1-5124-45a6-bcd1-2e58451535cd"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "18fc3488-110d-80ea-a060-dda81ef6e0d4"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "created date": {
+        "id": "%3AT%3AD",
+        "type": "date",
+        "date": {
+          "start": "2024-12-03",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "tag": {
+        "id": "G%5C%7C_",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Installation Design",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Installation Design",
+            "href": null
+          }
+        ]
+      },
+      "Cover": {
+        "id": "ZZ_%7D",
+        "type": "files",
+        "files": [
+          {
+            "name": "title.webp",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/1fdcc4ed-8e7c-4a0b-8360-e7f0995df676/4474e1f2-ea0f-4d67-839a-90983989fff4/title.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665LWY6KE2%2F20250204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250204T232741Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEB4aCXVzLXdlc3QtMiJHMEUCIGRXUzHDJZI82nswcZR082RDenVfzGJ%2Fu1TPjl6%2BIZB9AiEA8gbF6N%2FPkm1ZR96EiZsIbPDG8TohHa6GHnyJvqMFTPIq%2FwMINxAAGgw2Mzc0MjMxODM4MDUiDBoslXVSIoXRZlubAyrcA9eAtHGzW0vjp4P8EW%2F6Vp1qgIPjGJYpXArQBxPzrJPlQUti63UTbxCrhTFig4t4tOot7nhrV15lQvapIIfbvmLDOZN9oTUtG3m1dVQ6nbj8ZSpmH7GILH%2B2lvGvjjjJ%2B%2BV4zz2qcwuO7CuCaTdXJpx37IHjF1U0dNgR9UKhrUkmpHD5kYVPMulbQch%2F%2BjpeTfLCX6KC91eMOxSPBHABLhdDsZQ54EgVotk4QAYGFJ8SLnDnef7w9JI7xU2qFUdAD0ATJbOvVdtymLVDywMS7gxQ2Fi%2B8XjMAfF6btk0E5V1WoGzYNZt%2BXYHYSmEKapy3PBO6fpZGfWyzKi7EVQR4rA%2FlotBrlfV4VtWTgVjjmjykDNmZAXzhD0jiU13P%2BRlWejozEuWCNg8nvBUSti5rIXflqpynLa%2BXbP35Fb%2BefBWgobE2nbjSnxNAWBc1196y%2BAGAlptwyVAHn%2BiHVAwmSIKDXG4b6Jm9GnD7JkRRnaG2qBFOT8JFaXPe0BErebBAE6Wd4rvi%2BdY7pKWH%2BBKxKcE%2F5c07S5f8akqa6b%2B%2BaInF2W202CebdJvSgC%2FiMxVGk7HwiIBZGIc%2Fmkbww1m5QVt7nJ7LZlgZSt9pRgcBPMre%2FD7AqdEuD77QS6DMO2Tir0GOqUBR7TrtfjhdlkEPLa%2FDZpZEfvlaXdHtI%2FvdgThjszN%2FiYJs95U9nh71oI34BARXMkr%2FqT8Ovn685sATewNvTrfDDyqaSucnS8iBBHw9Ndpuch%2BJE23kh1EhFQ0ZEV2c1Bkg%2BpNU3KwfNjtqgjWohlUEso6uOzkT9Bop6qa7xqlucm0CQYWWk4e7kSlEud6LKWW5bh4qwvjTbRl9FGAlgHvhMfhJCfS&X-Amz-Signature=cd3f579de660839e1c0683c7f62af5c31508951b2cbc9513af0e9e9837c8d642&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2025-02-05T00:27:41.355Z"
+            }
+          }
+        ]
+      },
+      "description": {
+        "id": "b%5BGH",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Installation design initiative that seamlessly integrates with public spaces.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Installation design initiative that seamlessly integrates with public spaces.",
+            "href": null
+          }
+        ]
+      },
+      "Status": {
+        "id": "iZHt",
+        "type": "status",
+        "status": {
+          "id": "dc831dde-0cc4-456e-985e-3ad345f4d6ec",
+          "name": "In progress",
+          "color": "blue"
+        }
+      },
+      "Project": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Harvest",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Harvest",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Harvest-18fc3488110d807a9a59e7104e4e29cb",
+    "public_url": null
+  }
+]

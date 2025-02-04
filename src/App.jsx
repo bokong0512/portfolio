@@ -1,30 +1,38 @@
-import './App.css'
+import React from 'react'
+import data from './db/data.json'
 import {Navigation} from "./components/navigation";
-import {HoverCard} from "./components/hoverCard/index.jsx";
-import { Footer } from "./components/footer";
+import {HoverCard} from "./components/hoverCard";
+import {Footer} from "./components/footer";
 
 function App() {
+    // data is whatever structure we wrote in data.json
+    // Suppose it's an array of pages from Notion
+    return (
+        <div className="p-4 container mx-auto">
+            <Navigation />
+            <ul className="grid grid-cols-3 my-20">
+                {data.map((page) => {
+                    // Example: reading "Name" property
+                    const titleProp = page.properties?.Project;
+                    const descriptionProp = page.properties?.description;
+                    const coverProp = page.properties?.Cover;
 
-  return (
-    <div className="container w-full">
-        <Navigation />
-        <div className="grid grid-cols-2 sm:grid-cols-3 my-40">
-            <HoverCard
-                title="product #1"
-                imgSrc='https://picsum.photos/480'>Description product #1</HoverCard>
-            <HoverCard
-                title="product #2"
-                imgSrc='https://picsum.photos/580'>Description product #2</HoverCard>
-            <HoverCard
-                title="product #3"
-                imgSrc='https://picsum.photos/680'>Description product #3</HoverCard>
-            <HoverCard
-                title="product #4"
-                imgSrc='https://picsum.photos/780'>Description product #4</HoverCard>
+                    const coverUrl = coverProp?.files?.[0]?.file?.url;
+                    const titleText = titleProp?.title?.[0]?.plain_text || 'Untitled';
+                    const description = descriptionProp?.rich_text?.[0]?.plain_text || 'No description';
+
+                    return (
+                        <li key={page.id} className="">
+                            <HoverCard title={titleText} imgSrc={coverUrl}>
+                                {description}
+                            </HoverCard>
+                        </li>
+                    );
+                })}
+            </ul>
+            <Footer className='' />
         </div>
-        <Footer />
-    </div>
-  )
+    )
 }
 
 export default App

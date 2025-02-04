@@ -19,7 +19,9 @@ export const HoverCard = ({children, title, imgSrc, ...props}) => {
                 <h3 className='text-white text-3xl font-bold'>{title}</h3>
                 <h6 className='text-xl'>{children}</h6>
             </div>}
-            <img src={imgSrc} alt='' width='100%' height='100%' className={hideText ? '' : classNames('brightness-50')} />
+            <div className='aspect-square'>
+                <img src={imgSrc} alt='' width='100%' height='100%' className={classNames({'brightness-50': !hideText}, 'object-cover w-full h-full')} />
+            </div>
         </div>
     )
 }
